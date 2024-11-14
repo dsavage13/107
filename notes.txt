@@ -1,0 +1,8 @@
+"Pymongo Methods"
+insert_one
+find_one_and_update
+find({})
+delete_one
+delete_many
+update_one
+update_many
