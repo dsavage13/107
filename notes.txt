@@ -6,3 +6,10 @@ delete_one
 delete_many
 update_one
 update_many
+
+
+Activate VENV   
+
+ source venv/bin/activate
+
+ python3 -m pip install flask pymongo "pymongo[srv]" certifi
